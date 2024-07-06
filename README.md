@@ -1,13 +1,13 @@
 # PassingData
 Application to pass messages from server to client using TCP.
 
-# Test
+# Preview
 
 ## Initiate Server
 
 ![image](https://github.com/Lamorsa44/PassingData/assets/154420635/1d1eec03-40da-4a6e-b99b-9d78f4e1d835)
 
-## Initate Client
+## Initiate Client
 
 ![image](https://github.com/Lamorsa44/PassingData/assets/154420635/fdba22af-b940-4ddd-84ff-7ec6985780d3)
 
